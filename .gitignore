@@ -1,0 +1,7 @@
+# CODESYS build files
+*.~u
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.opt
